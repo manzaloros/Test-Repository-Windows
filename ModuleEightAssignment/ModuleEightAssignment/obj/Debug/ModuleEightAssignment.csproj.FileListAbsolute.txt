@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\ModuleEightAssignment\ModuleEightAssignment\bin\Debug\ModuleEightAssignment.exe.config
+\\psf\home\documents\visual studio 2013\Projects\ModuleEightAssignment\ModuleEightAssignment\bin\Debug\ModuleEightAssignment.exe
+\\psf\home\documents\visual studio 2013\Projects\ModuleEightAssignment\ModuleEightAssignment\bin\Debug\ModuleEightAssignment.pdb
+\\psf\home\documents\visual studio 2013\Projects\ModuleEightAssignment\ModuleEightAssignment\obj\Debug\ModuleEightAssignment.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\ModuleEightAssignment\ModuleEightAssignment\obj\Debug\ModuleEightAssignment.exe
+\\psf\home\documents\visual studio 2013\Projects\ModuleEightAssignment\ModuleEightAssignment\obj\Debug\ModuleEightAssignment.pdb
